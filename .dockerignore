@@ -1,2 +1,10 @@
 .DS_Store
 node_modules
+.github
+tests
+.git
+.gitignore
+.prettierignore
+.prettierrc.json
+Dockerfile
+.dockerignore
